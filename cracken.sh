@@ -1,0 +1,9 @@
+clear
+echo ~~___BBBBB__I___T___CCCCCC_RRR______________EEEE______
+echo ~~___B___B____TTTTT_C______R___________K_K__E_________
+echo ~~___BBBB___I___T___C______R___AAAAAA__KK___E_________
+echo ~~___BBBBB__I___T___C______R___A____A__K____EEEE_NNNNN
+echo ~~___B____B_I___T___C______R___AAAAAA__KK___E____N___N
+echo ~~___BBBBB__I___T___CCCCCC_R________A__K_K__EEEE_N___N
+echo Now listing random possibilites...
+./loop.sh
